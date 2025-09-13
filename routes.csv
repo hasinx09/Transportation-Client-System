@@ -1,0 +1,4 @@
+RouteID,From,To,Price,Seats
+1,CityA,CityB,500,50
+2,CityB,CityC,700,40
+3,CityC,CityA,600,45
