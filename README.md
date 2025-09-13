@@ -4,6 +4,13 @@ A **Python-based Transportation Management System** with **CSV storage**.
 Supports **Client & Admin logins**, ticket booking, route management, and persistent data storage.
 
 ---
+## 👤 Project Details
+```
+Project Head : Hasini
+Project Name : Transportation Client System
+Credits @Jaswanth-Kumar-2007
+```
+---
 
 ## ✨ Features
 
