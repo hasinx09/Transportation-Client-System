@@ -2,6 +2,11 @@ import pandas as pd
 import numpy as np
 import os
 
+pd.set_option("display.max_columns", None)
+pd.set_option("display.width", None)
+pd.set_option("display.max_rows", None)
+
+
 # ------------------ FILE PATHS ------------------
 ROUTES_FILE = "routes.csv"
 BOOKINGS_FILE = "bookings.csv"
