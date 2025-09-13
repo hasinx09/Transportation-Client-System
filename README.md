@@ -23,6 +23,11 @@ Supports **Client & Admin logins**, ticket booking, route management, and persis
 - View all users
 
 ---
+##Clone Repository 
+```
+git clone
+```
+---
 
 ## ⚙️ Requirements
 - Python 3.8+
@@ -33,12 +38,12 @@ Install Requirements:
 pip install -r requirements.txt
 ```
 ---
-###▶️ Usage
+##▶️ Usage
 ```python
 python transportation_system.py
 ```
 ---
-###📂 Project Files
+##📂 Project Files
 ```
 Transportation-Client-System/
 │
@@ -50,7 +55,7 @@ Transportation-Client-System/
 └── README.md                  # Documentation
 ```
 ---
-###🔐 Default Admin
+##🔐 Default Admin
 ```
 Username: admin
 ```
