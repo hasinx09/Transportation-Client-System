@@ -37,7 +37,7 @@ git clone https://github.com/hasinx09/Transportation-Client-System.git
 ```
 ---
 
-## ⚙️ Requirements
+⚙️ Requirements
 - Python 3.8+
 - Pandas
 - NumPy
@@ -46,12 +46,12 @@ Install Requirements:
 pip install -r requirements.txt
 ```
 ---
-##▶️ Usage
+▶️ Usage
 ```python
 python transportation_system.py
 ```
 ---
-##📂 Project Files
+📂 Project Files
 ```
 Transportation-Client-System/
 │
@@ -63,9 +63,9 @@ Transportation-Client-System/
 └── README.md                  # Documentation
 ```
 ---
-##🔐 Default Admin
+🔐 Default Admin
 ```
-Username: admin
+Username: adminkjk
 ```
 ```
 Password: admin123
