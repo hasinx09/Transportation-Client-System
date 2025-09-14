@@ -46,7 +46,7 @@ def save_data(routes, bookings, users):
 # ------------------ ADMIN MENU ------------------
 def admin_menu(routes, bookings, users):
     while True:
-        print("#------PROJECT BY HASINI---------#")
+        print("\n#------PROJECT BY HASINI---------#\n")
         print("\n--- ADMIN MENU ---")
         print("1. View Routes")
         print("2. Add Route")
@@ -87,7 +87,7 @@ def admin_menu(routes, bookings, users):
 # ------------------ CLIENT MENU ------------------
 def client_menu(username, routes, bookings, users):
     while True:
-        print("#------PROJECT BY HASINI---------#")
+        print("\n#------PROJECT BY HASINI---------#\n")
         print(f"\n--- CLIENT MENU ({username}) ---")
         print("1. View Routes")
         print("2. Search Route by City")
@@ -153,7 +153,7 @@ def client_menu(username, routes, bookings, users):
 
 # ------------------ LOGIN / REGISTER ------------------
 def login(users):
-    print("#------PROJECT BY HASINI---------#")
+    print("\n#------PROJECT BY HASINI---------#\n")
     print("\n--- LOGIN ---")
     username = input("Enter username: ")
     password = input("Enter password: ")
@@ -167,7 +167,7 @@ def login(users):
 
 
 def register(users):
-    print("#------PROJECT BY HASINI---------#")
+    print("\n#------PROJECT BY HASINI---------#\n")
     print("\n--- REGISTER NEW CLIENT ---")
     username = input("Choose username: ")
     if username in users["Username"].values:
@@ -185,7 +185,7 @@ if __name__ == "__main__":
     routes, bookings, users = load_data()
 
     while True:
-        print("#------PROJECT BY HASINI---------#")
+        print("\n#------PROJECT BY HASINI---------#\n")
         print("\n===== TRANSPORTATION SYSTEM =====")
         print("1. Login")
         print("2. Register (Client Only)")
