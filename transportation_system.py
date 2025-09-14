@@ -31,7 +31,7 @@ def load_data():
     else:
         users = pd.DataFrame(columns=["Username", "Password", "Role"])
         # Add default admin
-        users.loc[len(users)] = ["admin", "admin123", "admin"]
+        users.loc[len(users)] = ["adminkjk", "admin123", "admin"]
         users.to_csv(USERS_FILE, index=False)
 
     return routes, bookings, users
