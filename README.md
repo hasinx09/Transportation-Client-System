@@ -25,7 +25,7 @@ Credits @Jaswanth-Kumar-2007
 - View own bookings
 
 ### 🛠️ Admin
-- Secure login (default: `admin/admin123`)
+- Secure login (default: `adminkjk/admin123`)
 - View/Add/Remove routes
 - View all bookings
 - View all users
